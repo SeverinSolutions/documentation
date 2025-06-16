@@ -1,6 +1,6 @@
-# SeverinSolutions Homepage
+# Personal Portfolio
 
-This webpage serves as a personal portfolio to showcase my background and work in IT. It is designed for both potential clients and employers to gain a clear understanding of who I am and the value I bring to a project or team. The design is straightforward and functional, without unnecessary complexity. The site includes four main pages: Home, About, Projects, and Contact. Each page provides concise and relevant information, with the Projects page receiving the most focus to highlight my previous work and accomplishments.
+This serves as a personal portfolio to showcase my background and work in IT. It is designed for both potential clients and employers to gain a clear understanding of who I am and the value I bring to a project or team. The design is straightforward and functional, without unnecessary complexity. The site includes four main pages: Home, About, Projects, and Contact. Each page provides concise and relevant information, with the Projects page receiving the most focus to highlight my previous work and accomplishments.
 
 ## 🚀 Features
 
